@@ -3,7 +3,7 @@
 * **Location:** Bishkek,Kyrgyzstan
 * **Phone:** +996 708 949-134
 * **Email:** amanatov.zhanysh22@gmail.com
-* **GitHub:** [Zhanysh-Amanatov][https://github.com/Zhanysh-Amanatov]
+* **GitHub:** [Zhanysh-Amanatov](https://github.com/Zhanysh-Amanatov)
 
 ## About Me
 I'm really passionate about gaining new skills and developing existing ones.  
@@ -26,10 +26,10 @@ alert(result);
 ```
 
 ## Experience
-There is a [link][https://zhanysh.ml] to my personal website with several pet projects with source code.  
+There is a [link](https://zhanysh.ml) to my personal website with several pet projects with source code.  
 
 ## Education
-[PJATK][https://www.pja.edu.pl/en/]
+[PJATK](https://www.pja.edu.pl/en/)
 
 ## Languages
 * English (Upper-Intermediate)
