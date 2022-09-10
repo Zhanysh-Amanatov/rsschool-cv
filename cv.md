@@ -29,7 +29,7 @@ alert(result);
 There is a [link](https://zhanysh.ml) to my personal website with several pet projects with source code.  
 
 ## Education
-[PJATK](https://www.pja.edu.pl/en/)
+[PJATK](https://www.pja.edu.pl/en/) (Computer Science)
 
 ## Languages
 * English (Upper-Intermediate)
